@@ -1,4 +1,3 @@
-# zadania24i25
 <!--kocon -->
 
 <!DOCTYPE html>
